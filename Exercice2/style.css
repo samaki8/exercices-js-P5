@@ -2,3 +2,27 @@ html {
     height: 100%;
     width: 100%;
 }
+body {
+    
+    background-image: url("Depeche_mode_in_portland_Nov_2023.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8; 
+}
+
+h1 {
+    color: ghostwhite;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 100px; 
+}
+p ,ul, li , h2{
+    color: ghostwhite;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px; 
+}
