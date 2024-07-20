@@ -8,4 +8,5 @@ function checkAge(age) {
         return "Vous êtes senior.";
     }
 }
+
 export default checkAge;
