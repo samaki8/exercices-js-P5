@@ -66,6 +66,10 @@ section {
         flex-direction: column;
         align-items: flex-start; 
         justify-content: space-around;
+
     }
-    
+    nav li {
+        margin: 0px;
+    }
+
 }

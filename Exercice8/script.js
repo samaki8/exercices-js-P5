@@ -1,6 +1,7 @@
-//Votre code ici
-function add(a, b) {
-    return a + b;
+
+ function add (number1, number2){
+    let result = Number(number1) + Number(number2);
+    return result
 }
 
- export default add;
+export default add;

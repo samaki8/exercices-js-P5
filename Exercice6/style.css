@@ -1,7 +1,5 @@
-ul li {
-  color: #007bff;
-  margin: 15px;
+li {
+  color: rgb(0, 0, 255);
+  margin-bottom: 15px;
   padding-left: 10px;
-}
-
-/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=style.css.map */
